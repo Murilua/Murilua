@@ -86,13 +86,3 @@ Oi, me chamo Murilo Oliveira, tenho 18 anos e sou de São Paulo. Atualmente esto
     style="padding-right: 10px;"
     src="https://github-readme-stats-fast.vercel.app/api?username=Murilua&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&locale=pt-br"
  />
-
-</p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    width="480"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Murilua&theme=tokyonight&layout=compact&custom_title=Linguagens&lang_count=6"
- />
